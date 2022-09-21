@@ -2,3 +2,23 @@
 @model MascotaFeliz.App.Frontend.Pages.DetallesHistoriasModel
 @{
 }
+
+<link rel="stylesheet" href="~/css/Estilos.css">
+<h1 class="history">Detalles Historias</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Fecha</th>
+        </tr>
+    </thead>
+
+    <tr>
+
+        <td>@Model.historia.FechaInicial</td>
+    </tr>
+
+</table>
+<div>
+    <a asp-page="./ListaHistoria" class="btn-listado">Lista Historias </a>
+</div>
+

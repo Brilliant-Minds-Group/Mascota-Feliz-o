@@ -1,4 +1,18 @@
 ﻿@page
 @model MascotaFeliz.App.Frontend.Pages.EditarHistoriasModel
 @{
+    int historiaId = Model.historia.Id;
 }
+<h2> Agregar o editar Historias </h2>
+
+<form method= "post" >
+    <div class= "form group">
+        <input type="hidden" asp-for = "historia.Id" />
+        <label asp-for="historia.FechaInicial"></label>
+        <input asp-for="historia.FechaInicial" class="form-control">
+
+        <button type="sbmit" class="btnn btn-primary">Grabar</button>
+    </div>
+</form>
+
+<a asp-page="./listaHistorias" class="btn-default">Lista de Historias </a>

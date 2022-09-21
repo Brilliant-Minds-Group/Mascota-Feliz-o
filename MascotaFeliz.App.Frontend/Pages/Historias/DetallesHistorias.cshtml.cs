@@ -8,9 +8,24 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 namespace MascotaFeliz.App.Frontend.Pages
 {
     public class DetallesHistoriasModel : PageModel
-    {
-        public void OnGet()
+    {   
+        private readonly IRepositorioHistoria _repoHistoria;
+        public Historia historia {get;set;}
+        public DetallesHistoriasModel()
         {
+            this._repoHistoria = new RepositorioHistoria(new Persistencia.AppContext());
+        }
+        public IActionResult OnGet (int historiaId)
+        {
+            historia =_repoHistoria.GetHistoria(historiaId);
+            if (historia == null)
+            {
+                return RedirectToPage("./NotFound");
+            }
+            else
+            {
+                return Page();
+            }
         }
     }
 }
