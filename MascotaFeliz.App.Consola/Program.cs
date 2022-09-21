@@ -11,7 +11,7 @@ namespace MascotaFeliz.App.Consola
         private static IRepositorioDueno _repoDueno = new RepositorioDueno(new Persistencia.AppContext());
         private static IRepositorioVeterinario _repoVeterinario = new RepositorioVeterinario(new Persistencia.AppContext());
         private static IRepositorioMascota _repoMascota = new RepositorioMascota(new Persistencia.AppContext());
-        // private static IRepositorioHistoria _repoHistoria = new RepositorioHistoria(new Persistencia.AppContext());
+        private static IRepositorioHistoria _repoHistoria = new RepositorioHistoria(new Persistencia.AppContext());
         // private static IRepositorioVisitaPyP _repoVisitaPyP = new RepositorioVisitaPyP(new Persistencia.AppContext());
         static void Main(string[] args)
         {
@@ -24,7 +24,7 @@ namespace MascotaFeliz.App.Consola
             //ListarVeterinariosFiltro();
             AddVeterinario();
             //BuscarVeterinario(1);
-            //AddHistoria();
+            AddHistoria();
             //BuscarMascota(2);
             //ListarMascotas();
             //AsignarVisitaPyP(1);
@@ -71,15 +71,15 @@ namespace MascotaFeliz.App.Consola
             _repoMascota.AddMascota(mascota);
         }
         
-        // private static void AddHistoria()
-        // {
-        //     var historia = new Historia
-        //     {
-        //         FechaInicial = new DateTime(1990, 04, 12)
+         private static void AddHistoria()
+        {
+            var historia = new Historia
+            {
+                FechaInicial = new DateTime(1990, 04, 12)
                 
-        //     };
-        //     _repoHistoria.AddHistoria(historia);
-        // }
+            };
+            _repoHistoria.AddHistoria(historia);
+        }
 
 
         private static void BuscarDueno(int idDueno)
@@ -146,11 +146,11 @@ namespace MascotaFeliz.App.Consola
         //         _repoHistoria.UpdateHistoria(historia);
         //     }
         // }
-        private static void AsignarDueno()
-            {
-        var dueno = _repoMascota.Asignardueno(1, 15);
-        Console.WriteLine(dueno.Nombres + " " + dueno.Apellidos);
-        }
+        //private static void AsignarDueno()
+        //    {
+        //var dueno = _repoMascota.Asignardueno(1, 15);
+        //Console.WriteLine(dueno.Nombres + " " + dueno.Apellidos);
+        //}
         
     }  
             

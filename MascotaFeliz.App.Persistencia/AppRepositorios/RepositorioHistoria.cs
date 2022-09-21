@@ -62,7 +62,7 @@ namespace MascotaFeliz.App.Persistencia
             if (HistoriaEncontrada != null)
             {
                 HistoriaEncontrada.FechaInicial = historia.FechaInicial;
-                HistoriaEncontrada.VisitasPyP = historia.VisitasPyP;
+                
                 _appContext.SaveChanges();
             }
             return HistoriaEncontrada;
