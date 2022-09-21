@@ -7263,19 +7263,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\TRU\\.nuget\\packages\\": {}
+    "C:\\Users\\CEN\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Mascota-Feliz\\MascotaFeliz.App.Persistencia\\MascotaFeliz.App.Persistencia.csproj",
+      "projectUniqueName": "C:\\Users\\CEN\\Desktop\\BrillantMinds\\Mascota-Feliz-o\\MascotaFeliz.App.Persistencia\\MascotaFeliz.App.Persistencia.csproj",
       "projectName": "MascotaFeliz.App.Persistencia",
-      "projectPath": "D:\\Mascota-Feliz\\MascotaFeliz.App.Persistencia\\MascotaFeliz.App.Persistencia.csproj",
-      "packagesPath": "C:\\Users\\TRU\\.nuget\\packages\\",
-      "outputPath": "D:\\Mascota-Feliz\\MascotaFeliz.App.Persistencia\\obj\\",
+      "projectPath": "C:\\Users\\CEN\\Desktop\\BrillantMinds\\Mascota-Feliz-o\\MascotaFeliz.App.Persistencia\\MascotaFeliz.App.Persistencia.csproj",
+      "packagesPath": "C:\\Users\\CEN\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\CEN\\Desktop\\BrillantMinds\\Mascota-Feliz-o\\MascotaFeliz.App.Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\TRU\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\CEN\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.1"
@@ -7286,8 +7286,8 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "D:\\Mascota-Feliz\\MascotaFeliz.App.Dominio\\MascotaFeliz.App.Dominio.csproj": {
-              "projectPath": "D:\\Mascota-Feliz\\MascotaFeliz.App.Dominio\\MascotaFeliz.App.Dominio.csproj"
+            "C:\\Users\\CEN\\Desktop\\BrillantMinds\\Mascota-Feliz-o\\MascotaFeliz.App.Dominio\\MascotaFeliz.App.Dominio.csproj": {
+              "projectPath": "C:\\Users\\CEN\\Desktop\\BrillantMinds\\Mascota-Feliz-o\\MascotaFeliz.App.Dominio\\MascotaFeliz.App.Dominio.csproj"
             }
           }
         }

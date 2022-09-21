@@ -43,3 +43,12 @@ C:\Users\Carlos Correa\Videos\Mascota-Feliz\MascotaFeliz.App.Dominio\obj\Debug\n
 C:\Users\Carlos Correa\Videos\Mascota-Feliz\MascotaFeliz.App.Dominio\obj\Debug\netstandard2.0\MascotaFeliz.App.Dominio.csproj.CoreCompileInputs.cache
 C:\Users\Carlos Correa\Videos\Mascota-Feliz\MascotaFeliz.App.Dominio\obj\Debug\netstandard2.0\MascotaFeliz.App.Dominio.dll
 C:\Users\Carlos Correa\Videos\Mascota-Feliz\MascotaFeliz.App.Dominio\obj\Debug\netstandard2.0\MascotaFeliz.App.Dominio.pdb
+C:\Users\CEN\Desktop\BrillantMinds\Mascota-Feliz-o\MascotaFeliz.App.Dominio\bin\Debug\netstandard2.0\MascotaFeliz.App.Dominio.deps.json
+C:\Users\CEN\Desktop\BrillantMinds\Mascota-Feliz-o\MascotaFeliz.App.Dominio\bin\Debug\netstandard2.0\MascotaFeliz.App.Dominio.dll
+C:\Users\CEN\Desktop\BrillantMinds\Mascota-Feliz-o\MascotaFeliz.App.Dominio\bin\Debug\netstandard2.0\MascotaFeliz.App.Dominio.pdb
+C:\Users\CEN\Desktop\BrillantMinds\Mascota-Feliz-o\MascotaFeliz.App.Dominio\obj\Debug\netstandard2.0\MascotaFeliz.App.Dominio.csprojAssemblyReference.cache
+C:\Users\CEN\Desktop\BrillantMinds\Mascota-Feliz-o\MascotaFeliz.App.Dominio\obj\Debug\netstandard2.0\MascotaFeliz.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\CEN\Desktop\BrillantMinds\Mascota-Feliz-o\MascotaFeliz.App.Dominio\obj\Debug\netstandard2.0\MascotaFeliz.App.Dominio.AssemblyInfo.cs
+C:\Users\CEN\Desktop\BrillantMinds\Mascota-Feliz-o\MascotaFeliz.App.Dominio\obj\Debug\netstandard2.0\MascotaFeliz.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\CEN\Desktop\BrillantMinds\Mascota-Feliz-o\MascotaFeliz.App.Dominio\obj\Debug\netstandard2.0\MascotaFeliz.App.Dominio.dll
+C:\Users\CEN\Desktop\BrillantMinds\Mascota-Feliz-o\MascotaFeliz.App.Dominio\obj\Debug\netstandard2.0\MascotaFeliz.App.Dominio.pdb

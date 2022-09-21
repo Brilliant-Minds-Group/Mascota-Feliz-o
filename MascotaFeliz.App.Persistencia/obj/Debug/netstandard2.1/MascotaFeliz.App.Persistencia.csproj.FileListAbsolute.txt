@@ -58,3 +58,15 @@ C:\Users\Carlos Correa\Videos\Mascota-Feliz\MascotaFeliz.App.Persistencia\obj\De
 C:\Users\Carlos Correa\Videos\Mascota-Feliz\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csproj.CopyComplete
 C:\Users\Carlos Correa\Videos\Mascota-Feliz\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.dll
 C:\Users\Carlos Correa\Videos\Mascota-Feliz\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.pdb
+C:\Users\CEN\Desktop\BrillantMinds\Mascota-Feliz-o\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.deps.json
+C:\Users\CEN\Desktop\BrillantMinds\Mascota-Feliz-o\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.dll
+C:\Users\CEN\Desktop\BrillantMinds\Mascota-Feliz-o\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.pdb
+C:\Users\CEN\Desktop\BrillantMinds\Mascota-Feliz-o\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Dominio.dll
+C:\Users\CEN\Desktop\BrillantMinds\Mascota-Feliz-o\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Dominio.pdb
+C:\Users\CEN\Desktop\BrillantMinds\Mascota-Feliz-o\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csprojAssemblyReference.cache
+C:\Users\CEN\Desktop\BrillantMinds\Mascota-Feliz-o\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\CEN\Desktop\BrillantMinds\Mascota-Feliz-o\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.AssemblyInfo.cs
+C:\Users\CEN\Desktop\BrillantMinds\Mascota-Feliz-o\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\CEN\Desktop\BrillantMinds\Mascota-Feliz-o\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csproj.CopyComplete
+C:\Users\CEN\Desktop\BrillantMinds\Mascota-Feliz-o\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.dll
+C:\Users\CEN\Desktop\BrillantMinds\Mascota-Feliz-o\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.pdb
