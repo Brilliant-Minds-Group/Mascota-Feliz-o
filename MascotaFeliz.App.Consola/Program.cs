@@ -75,7 +75,7 @@ namespace MascotaFeliz.App.Consola
         {
             var historia = new Historia
             {
-                FechaInicial = new DateTime(1990, 04, 12)
+                FechaInicial = new DateTime(1989, 04, 12)
                 
             };
             _repoHistoria.AddHistoria(historia);
