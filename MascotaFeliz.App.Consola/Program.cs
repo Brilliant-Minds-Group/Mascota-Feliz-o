@@ -71,15 +71,15 @@ namespace MascotaFeliz.App.Consola
             _repoMascota.AddMascota(mascota);
         }
         
-        // private static void AddHistoria()
-        // {
-        //     var historia = new Historia
-        //     {
-        //         FechaInicial = new DateTime(1990, 04, 12)
+         private static void AddHistoria()
+        {
+            var historia = new Historia
+            {
+                FechaInicial = new DateTime(1990, 04, 12)
                 
-        //     };
-        //     _repoHistoria.AddHistoria(historia);
-        // }
+            };
+            _repoHistoria.AddHistoria(historia);
+        }
 
 
         private static void BuscarDueno(int idDueno)
@@ -146,11 +146,11 @@ namespace MascotaFeliz.App.Consola
         //         _repoHistoria.UpdateHistoria(historia);
         //     }
         // }
-        private static void AsignarDueno()
-            {
-        var dueno = _repoMascota.Asignardueno(1, 15);
-        Console.WriteLine(dueno.Nombres + " " + dueno.Apellidos);
-        }
+        //private static void AsignarDueno()
+        //    {
+        //var dueno = _repoMascota.Asignardueno(1, 15);
+        //Console.WriteLine(dueno.Nombres + " " + dueno.Apellidos);
+        //}
         
     }  
             
