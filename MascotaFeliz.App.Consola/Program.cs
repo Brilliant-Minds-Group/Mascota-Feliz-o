@@ -24,7 +24,7 @@ namespace MascotaFeliz.App.Consola
             //ListarVeterinariosFiltro();
             AddVeterinario();
             //BuscarVeterinario(1);
-            //AddHistoria();
+            AddHistoria();
             //BuscarMascota(2);
             //ListarMascotas();
             //AsignarVisitaPyP(1);
