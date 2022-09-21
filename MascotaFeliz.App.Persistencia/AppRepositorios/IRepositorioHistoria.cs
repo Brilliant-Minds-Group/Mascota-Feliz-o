@@ -13,7 +13,7 @@ namespace MascotaFeliz.App.Persistencia
         void DeleteHistoria(int IdHistoria);
         Historia UpdateHistoria(Historia historia);
         Historia GetHistoria(int IdHistoria);
-        ////IEnumerable<Historia> GetHistoriasPorFiltro(string filtro);
+        /////IEnumerable<Historia> GetHistoriasPorFiltro(string filtro);
 
     }
 }
